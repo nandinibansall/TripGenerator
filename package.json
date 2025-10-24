@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "@clerk/nextjs": "^6.34.0"
+    "@clerk/nextjs": "^6.34.0",
+    "convex": "^1.28.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.1"
   }
 }
