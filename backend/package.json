@@ -1,28 +1,22 @@
-{
 
+ {
+  "name": "frontend",
+  "version": "1.0.0",
   "scripts": {
-
     "dev": "npx convex dev"
-
   },
-
   "dependencies": {
-
     "@clerk/nextjs": "^6.34.0",
-
-    "convex": "^1.28.0"
-
+    "convex": "^1.28.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
-
   "devDependencies": {
-
     "@types/node": "^24.9.1",
-
-    "@types/react": "^19.2.2",
-
-    "nodemon": "^3.1.10"
-
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "nodemon": "^3.1.10",
+    "typescript": "^5.2.2"
   }
-
 }
 
